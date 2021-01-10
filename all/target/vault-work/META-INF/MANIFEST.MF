@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: AEM 6.5 Demo - All
+Content-Package-Roots: /apps/aem65demo-packages,/apps/aem65demo-vendor
+ -packages
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ttse
+Implementation-Vendor-Id: com.aem65demo
+Content-Package-Type: application
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_242
+Content-Package-Description: All content package for AEM 6.5 Demo
+Content-Package-Id: com.aem65demo:aem65demo.all:1.0-SNAPSHOT
+

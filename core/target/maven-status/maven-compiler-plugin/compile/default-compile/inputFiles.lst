@@ -1,0 +1,10 @@
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/models/package-info.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/servlets/SimpleServlet.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/listeners/package-info.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/servlets/package-info.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/schedulers/SimpleScheduledTask.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/schedulers/package-info.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/filters/LoggingFilter.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/filters/package-info.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/models/HelloWorldModel.java
+/Users/ttse/git/aem65demo/core/src/main/java/com/aem65demo/core/listeners/SimpleResourceListener.java

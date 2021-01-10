@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: AEM 6.5 Demo - UI content
+Content-Package-Roots: /conf/aem65demo,/content/aem65demo,/content/dam
+ /aem65demo,/content/experience-fragments/aem65demo
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ttse
+Implementation-Vendor-Id: com.aem65demo
+Content-Package-Dependencies: com.aem65demo:aem65demo.ui.apps:1.0-SNAP
+ SHOT
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_242
+Content-Package-Description: UI content package for AEM 6.5 Demo
+Content-Package-Id: com.aem65demo:aem65demo.ui.content:1.0-SNAPSHOT
+

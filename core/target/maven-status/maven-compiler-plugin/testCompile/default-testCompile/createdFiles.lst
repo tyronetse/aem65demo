@@ -1,0 +1,5 @@
+com/aem65demo/core/listeners/SimpleResourceListenerTest.class
+com/aem65demo/core/schedulers/SimpleScheduledTaskTest.class
+com/aem65demo/core/models/HelloWorldModelTest.class
+com/aem65demo/core/filters/LoggingFilterTest.class
+com/aem65demo/core/servlets/SimpleServletTest.class
