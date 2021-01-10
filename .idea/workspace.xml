@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="319e0563-c527-4667-a82a-330b4d31b774" name="Default Changelist" comment="" />
+    <list default="true" id="319e0563-c527-4667-a82a-330b4d31b774" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/downloads/demoComponent.zip" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +24,11 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aem65demo/clientlibs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/downloads" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/downloads" />
       <recent name="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aem65demo/clientlibs" />
       <recent name="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/aem65demo/components/demo" />
     </key>
@@ -59,6 +62,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="518" y="165" key="CommitChangelistDialog2" timestamp="1610306245579">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="518" y="165" key="CommitChangelistDialog2/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1610306245579" />
     <state x="550" y="394" key="com.intellij.ide.util.TipDialog" timestamp="1610301955164">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
