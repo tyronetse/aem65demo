@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM 6.5 Demo - UI apps</comment>
+<entry key="createdBy">ttse</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">aem65demo.ui.apps</entry>
+<entry key="acHandling">merge</entry>
+<entry key="created">2021-01-10T12:34:18.299-06:00</entry>
+<entry key="groupId">com.aem65demo</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">application</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">adobe/cq60:core.wcm.components.content:2.8.0,adobe/cq60:core.wcm.components.config:2.8.0</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="group">com.aem65demo</entry>
+<entry key="description">UI apps package for AEM 6.5 Demo</entry>
+<entry key="artifactId">aem65demo.ui.apps</entry>
+</properties>
